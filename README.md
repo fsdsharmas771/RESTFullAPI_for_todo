@@ -33,7 +33,7 @@
 -  To Delete Task:-  DELETE : http://localhost:8000/user/tasks/:id
 -  To Update Task:-  PUT : http://localhost:8000/user/tasks/:id
 -  To Find Single Task:-  GET : http://localhost:8000/user/tasks/:id
--  To Find All Tasks Related To Logedin User :-  GET : http://localhost:8000/user/tasks/
+-  To Find All Tasks Related To Logedin User with pagination (2 item per page ) :-  GET : http://localhost:8000/user/tasks/
    
 ## Directory Structure and flow of The Code
 This code follows MVC pattern and hence everything is differentiated and well managed:
